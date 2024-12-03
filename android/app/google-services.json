@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100329912836",
+    "project_id": "botmonitoring-notification",
+    "storage_bucket": "botmonitoring-notification.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100329912836:android:d47036a8ee7d6055a65351",
+        "android_client_info": {
+          "package_name": "com.msl.rpa_bot_monitoring_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYz1Hgxi_CKzh2zKj1Oe8EJZN8vkQfEBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
