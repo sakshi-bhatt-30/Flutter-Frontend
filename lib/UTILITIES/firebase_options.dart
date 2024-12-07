@@ -39,50 +39,50 @@ class DefaultFirebaseOptions {
         );
     }
   }
-
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAc0nOxg2rJFx0i3-FEDrjVvxi8hMRI7gs',
-    appId: '1:100329912836:web:ca931ca24b2ad74795db59',
-    messagingSenderId: '100329912836',
-    projectId: 'botmonitoring-notification',
-    authDomain: 'botmonitoring-notification.firebaseapp.com',
-    storageBucket: 'botmonitoring-notification.firebasestorage.app',
-    measurementId: 'G-QNEGXC2BRY',
+static const FirebaseOptions web = FirebaseOptions(
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCHQleqRfPTjtngtO1LQUBaDoCxqxtXN8c',
-    appId: '1:100329912836:android:a8b8753c588275b095db59',
-    messagingSenderId: '100329912836',
-    projectId: 'botmonitoring-notification',
-    storageBucket: 'botmonitoring-notification.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCdRJY84dhFWa00xFieLycE-xacmhNK2FE',
-    appId: '1:100329912836:ios:029554cbf571fe3295db59',
-    messagingSenderId: '100329912836',
-    projectId: 'botmonitoring-notification',
-    storageBucket: 'botmonitoring-notification.firebasestorage.app',
-    iosBundleId: 'com.msl.rpa_bot_monitoring_ui',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCdRJY84dhFWa00xFieLycE-xacmhNK2FE',
-    appId: '1:100329912836:ios:029554cbf571fe3295db59',
-    messagingSenderId: '100329912836',
-    projectId: 'botmonitoring-notification',
-    storageBucket: 'botmonitoring-notification.firebasestorage.app',
-    iosBundleId: 'com.msl.rpa_bot_monitoring_ui',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAc0nOxg2rJFx0i3-FEDrjVvxi8hMRI7gs',
-    appId: '1:100329912836:web:0277f236f924d70e95db59',
-    messagingSenderId: '100329912836',
-    projectId: 'botmonitoring-notification',
-    authDomain: 'botmonitoring-notification.firebaseapp.com',
-    storageBucket: 'botmonitoring-notification.firebasestorage.app',
-    measurementId: 'G-TPYFQD0DLB',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
+  
 }
